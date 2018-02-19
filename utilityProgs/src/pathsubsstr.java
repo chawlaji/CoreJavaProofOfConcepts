@@ -1,4 +1,4 @@
-package utilityProgs;
+
 
 public class pathsubsstr {
 
@@ -38,7 +38,7 @@ public class pathsubsstr {
 		System.out.println(1+" "+nestvalue);
 		System.out.println(path);*/
 	
-	String value="USPotatoMarketClassCategoryType]/value=5_russet tablestock";
+/*	String value="USPotatoMarketClassCategoryType]/value=5_russet tablestock";
 	String pathnew="/PotatoCharacteristicItemCategory[xsi:type";
 	String ValueN[]= null;
 	if(value.contains("]/value=")){
@@ -51,7 +51,10 @@ public class pathsubsstr {
 	System.out.println(ValueN[1]);
 
 	System.out.println(pathnew);
-
+*/
+		
+		
+		test a= new test(null);
 	
 	}
 
